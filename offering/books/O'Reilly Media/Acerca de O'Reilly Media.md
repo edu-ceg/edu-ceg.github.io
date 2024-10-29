@@ -1,0 +1,2 @@
+## Acerca de la editorial
+La misión de O'Reilly es cambiar el mundo compartiendo el conocimiento de los innovadores. Durante más de 40 años, hemos inspirado a empresas y particulares a hacer cosas nuevas -y hacerlas mejor- proporcionándoles las habilidades y la comprensión necesarias para el éxito.

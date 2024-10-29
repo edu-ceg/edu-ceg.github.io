@@ -1,0 +1,1 @@
+Normal: 87.95 MXN
