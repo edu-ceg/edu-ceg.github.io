@@ -64,7 +64,7 @@ PUBLICADO POR:
 O'Reilly Media, Inc.
 
 FECHA DE PUBLICACIÓN:
-Abril de 2024
+Abril de 2024 (Primera edición)
 
 LONGITUD DE IMPRESIÓN
 224 páginas
