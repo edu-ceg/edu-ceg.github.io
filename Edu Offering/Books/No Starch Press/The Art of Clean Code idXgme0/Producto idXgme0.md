@@ -1,0 +1,7 @@
+Most software developers waste thousands of hours working with overly complex code. The eight core principles in The Art of Clean Code will teach you how to write clear, maintainable code without compromising functionality. The book’s guiding principle is simplicity: reduce and simplify, then reinvest energy in the important parts to save you countless hours and ease the often onerous task of code maintenance.
+
+Bestselling author Christian Mayer leverages his experience helping thousands perfect their coding skills in this new book. With expert advice and real-world examples, he’ll show you how to:
+
+•Concentrate on the important stuff with the 80/20 principle — focus on the 20% of your code that matters most •Avoid coding in isolation: create a minimum viable product to get early feedback •Write code cleanly and simply to eliminate clutter •Avoid premature optimization that risks over-complicating code •Balance your goals, capacity, and feedback to achieve the productive state of Flow •Apply the Do One Thing Well philosophy to vastly improve functionality •Design efficient user interfaces with the Less is More principle •Tie your new skills together into one unifying principle: Focus
+
+This Python-based guide is suitable for programmers at any level, with ideas presented in a language-agnostic manner.
