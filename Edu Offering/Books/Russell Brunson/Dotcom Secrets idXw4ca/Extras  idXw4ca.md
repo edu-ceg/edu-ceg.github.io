@@ -1,3 +1,7 @@
+### Sobre el autor
+
+Russell Brunson creó su primera empresa online mientras practicaba lucha libre en la universidad. Al año de graduarse, había vendido más de un millón de dólares en productos y servicios propios desde su sótano. En los últimos 15 años, ha creado un grupo de seguidores de más de un millón de emprendedores, ha vendido cientos de miles de ejemplares de sus libros Dotcom Secrets y Expert Secrets, ha popularizado el concepto de embudos de ventas y ha cofundado la empresa de software ClickFunnels, que ayuda a decenas de miles de emprendedores a hacer llegar rápidamente su mensaje al mercado. Vive en Idaho con su familia, y puedes visitarle en línea en RussellBrunson.com.
+
 ## Detalles del producto
 
 ASIN:

@@ -2,7 +2,7 @@
 
 ## El libro de jugadas clandestinas para hacer crecer tu empresa en Internet con embudos de ventas
 
-### Libro bilingüe (Español / Inglés) 🔥
+### Lecturas en Español y en Inglés 🔥
 
 **Domina la ciencia de la construcción de embudos para hacer crecer tu empresa online con embudos de ventas en esta edición actualizada del empresario de 100 millones de dólares y cofundador de la empresa de software ClickFunnels.**
 
@@ -101,7 +101,3 @@ Secreto nº 26 ClickFunnels
 Secreto nº 27: Apilamiento de embudos
 
 Secreto nº 28: Embudo Audible
-
-### Sobre el autor
-
-Russell Brunson creó su primera empresa online mientras practicaba lucha libre en la universidad. Al año de graduarse, había vendido más de un millón de dólares en productos y servicios propios desde su sótano. En los últimos 15 años, ha creado un grupo de seguidores de más de un millón de emprendedores, ha vendido cientos de miles de ejemplares de sus libros Dotcom Secrets y Expert Secrets, ha popularizado el concepto de embudos de ventas y ha cofundado la empresa de software ClickFunnels, que ayuda a decenas de miles de emprendedores a hacer llegar rápidamente su mensaje al mercado. Vive en Idaho con su familia, y puedes visitarle en línea en RussellBrunson.com.
