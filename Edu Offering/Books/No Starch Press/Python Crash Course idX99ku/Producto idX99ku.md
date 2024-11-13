@@ -28,7 +28,7 @@ Esta introducción rápida y completa a la programación con Python te enseñar�
 
 **En la segunda mitad, pondrás en práctica tus nuevos conocimientos con tres proyectos sustanciales**: un juego arcade inspirado en Space Invaders, un conjunto de visualizaciones de datos con las prácticas bibliotecas de Python, y una sencilla aplicación web que puedes desplegar en línea.
 
-**A medida que vayas avanzando en el libro, aprenderás a:**
+#### A medida que vayas avanzando en el libro, aprenderás a:
 
 🔥 Utilizar potentes bibliotecas y herramientas de Python, como Pygame, Matplotlib, Plotly y Django
 
