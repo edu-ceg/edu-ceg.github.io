@@ -1,45 +1,61 @@
-# Programación Asistida por IA (ES/EN)
+# Programación Asistida con IA (ES/EN)
+
+[Garantía de satisfacción 100% libre de riesgos ✅](https://alejandrialibros.digital/policies/refund-policy)
 
 ## Mejor planificación, codificación, pruebas y despliegue
 
-### Libro bilingüe (Español / Inglés) 🔥
+⚡ Lecturas en español e inglés
 
-Obtén consejos prácticos sobre cómo aprovechar las herramientas de desarrollo de IA en todas las fases de la creación de código, incluidos los requisitos, la planificación, el diseño, la codificación, la depuración, las pruebas y la documentación. Con este libro, tanto los principiantes como los desarrolladores experimentados aprenderán a utilizar una amplia gama de herramientas, desde LLM de propósito general (ChatGPT, Gemini y Claude) hasta sistemas específicos de código (GitHub Copilot, Tabnine, Cursor y Amazon CodeWhisperer).
+⚡ Formatos EPUB / PDF
+
+⚡ Contenido completo
+
+⚡ Código funcional
+
+⚡ Actualizaciones de por vida
+
+⚡ Acceso sin conexión
+
+⚡ Material descargable
+
+### Obtén una guía práctica sobre cómo aprovechar las herramientas de desarrollo con IA en todas las fases de la creación de código, incluidos los requisitos, la planificación, el diseño, la codificación, la depuración, las pruebas y la documentación
+
+Con este libro, tanto los principiantes como los desarrolladores experimentados **aprenderán a utilizar una amplia gama de herramientas, desde LLM de propósito general** (ChatGPT, Gemini y Claude) **hasta sistemas específicos de código** (GitHub Copilot, Tabnine, Cursor y Amazon CodeWhisperer).
 
 También conocerás herramientas de IA generativa más especializadas para tareas como la creación de texto a imagen.
 
-El autor Tom Taulli proporciona una metodología para la programación modular que se alinea eficazmente con la forma en que los prompts crean código generado por IA. Esta guía también describe las mejores formas de utilizar los LLM de propósito general para aprender un lenguaje de programación, explicar código o convertir código de un lenguaje a otro.
+El autor Tom Taulli proporciona una metodología para la **programación modular** que se alinea eficazmente con la forma en que las instrucciones crean código generado por IA. **Esta guía también describe las mejores formas de utilizar los LLM de propósito general para aprender un lenguaje de programación, explicar código o convertir código de un lenguaje a otro.**
 
-### Quién debería leer este libro
+#### Quién debería leer este libro
 
 Este libro es para cualquier desarrollador, tanto si acabas de empezar como si llevas muchos años en en este mundo.
 
-### Este libro examina:
+#### Este libro examina:
 
-⚡ Las capacidades básicas de las herramientas de desarrollo basadas en IA.
+🔥 Las capacidades básicas de las herramientas de desarrollo basadas en IA.
 
-⚡ Pros, contras y casos de uso de sistemas populares como GitHub Copilot y Amazon CodeWhisperer.
+🔥 Pros, contras y casos de uso de sistemas populares como GitHub Copilot y Amazon CodeWhisperer.
 
-⚡ Formas de utilizar ChatGPT, Gemini, Claude y otros LLM genéricos para la codificación.
+🔥 Formas de utilizar ChatGPT, Gemini, Claude y otros LLM genéricos para la codificación.
 
-⚡ Uso de herramientas de desarrollo de IA para el ciclo de vida del desarrollo de software, incluidos los requisitos, la planificación, la codificación, la depuración y las pruebas.
+🔥 Uso de herramientas de desarrollo de IA para el ciclo de vida del desarrollo de software, incluidos los requisitos, la planificación, la codificación, la depuración y las pruebas.
 
-⚡ Ingeniería de prompts para el desarrollo.
+🔥 Ingeniería de prompts para el desarrollo.
 
-⚡ Utilizar la programación asistida por IA para tareas tediosas como crear expresiones regulares, código de inicio, clases de programación orientada a objetos y Acciones de GitHub.
+🔥 Utilizar la programación asistida por IA para tareas tediosas como crear expresiones regulares, código de inicio, clases de programación orientada a objetos y Acciones de GitHub.
 
-⚡ Cómo utilizar herramientas de bajo código y sin código basadas en IA, como para crear interfaces de usuario profesionales.
+🔥 Cómo utilizar herramientas de bajo código y sin código basadas en IA, como para crear interfaces de usuario profesionales.
 
-### Contenido:
+#### CONTENIDO:
 
 1. Un nuevo mundo para los desarrolladores
-2. Cómo funciona la tecnología de codificación de la IA
-3. Ingeniería Prompt
-4. Copiloto GitHub
+2. Cómo funciona la codificación potenciada con IA
+3. Prompts
+4. GitHub Copilot
 5. Otras herramientas de programación asistida por IA
 6. ChatGPT y otros LLM de propósito general
 7. Ideas, planificación y requisitos
-8. Codificación
+8. Codificación (manos a la obra)
 9. Depuración, pruebas y despliegue
 10. Conclusiones
 
